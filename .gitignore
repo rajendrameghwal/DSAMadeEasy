@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DSAMadeEasyCode/.vs
+/DSAMadeEasyCode/DSAMadeEasyProject/obj
+/DSAMadeEasyCode/DSAMadeEasyProject/bin
